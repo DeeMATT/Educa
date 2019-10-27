@@ -3,3 +3,6 @@ Ignore all __pycache__ files
 
 Ignore all sqlite db
 *.sqlite3
+
+Ignore .idea directory
+.idea
